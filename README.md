@@ -1,4 +1,4 @@
-# Multi-Layer Perceptron from Scratch 🧠
+# Multi-Layer Perceptron from Scratch 
 
 A fully hand-coded Multi-Layer Perceptron (MLP) built using **only NumPy** — no PyTorch, no TensorFlow. Trained on the classic Iris flower dataset to classify 3 species with **96.7% test accuracy**.
 
